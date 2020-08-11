@@ -41,10 +41,6 @@ def reconstruct_no(batchX, predictedY):
     result = cv2.cvtColor(result, cv2.COLOR_Lab2RGB)
     return result
 
-def wassertien_loss(y_true,y_pred):
-    return torch.mean(y_pred)
-
-
 
 
 def imag_gird(axrow, orig, batchL, preds, epoch):
