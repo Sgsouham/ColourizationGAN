@@ -25,5 +25,17 @@ So the paper looks forward to tackle a simple probelem and that is to colourize 
     The other block is the discriminator block which is based on a simple Markovian Discriminator (PatchGan used in Image translations tasks).
 
 - Next up is with loss functions and the training.
+        Accoriding to the author of the paper, they used multiple loss functions to learn the two chrominance value
+        - Colour Error Loss ( L2 Norm Loss )
+        - Class distribution loss (KL divergence )
+        - WGAN loss (adverserial Wassertien GAN loss)
+        
+### Dataset
+The original paper was trained on Imagenet
+I trained it on a few images(50k)
+
+### Results and Important links 
+
+Results of their paper and every minute detail can be found in [https://github.com/pvitoria/ChromaGAN]
 
 
