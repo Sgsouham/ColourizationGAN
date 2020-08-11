@@ -40,12 +40,12 @@ Results of their paper and every minute detail can be found in [pvitoria repo](h
 
 The result of this repository are given below
 
-[1](/images/2.png)
+![1](/images/2.png)
 
 
-[1](/images/3.png)
+![1](/images/3.png)
 
 
-[1](/images/4.png)
+![1](/images/4.png)
 
 
