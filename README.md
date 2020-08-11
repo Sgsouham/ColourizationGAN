@@ -13,15 +13,17 @@ So the paper looks forward to tackle a simple probelem and that is to colourize 
 
 ![Architecture](/images/1.png)
 
-  As we can see, the architecture is denoted by several colour schemes and each colour scheme has different importance.
-  - Yellow branch is a simple VGG network with no top layer
-  - Small red boxes away from the main branches are modules consisting of Conv-BatchN-Relu blocks
-  - Grey blocks are fc layers which extract the semantic meaning by classifying the classes.
-  - Red blocks are again connected back to the main branch and is concatenated with the purple block.
-  - the blue blocks are upsample conv blocks. 
+    As we can see, the architecture is denoted by several colour schemes and each colour scheme has different importance.
+    - Yellow branch is a simple VGG network with no top layer
+    - Small red boxes away from the main branches are modules consisting of Conv-BatchN-Relu blocks
+    - Grey blocks are fc layers which extract the semantic meaning by classifying the classes.
+    - Red blocks are again connected back to the main branch and is concatenated with the purple block.
+    - the blue blocks are upsample conv blocks. 
 
-  These blocks make the colourization_block/generator block(please check the paper for more details)
+    These blocks make the colourization_block/generator block(please check the paper for more details)
 
-  The other block is the discriminator block which is based on a simple Markovian Discriminator (PatchGan used in Image translations tasks).
+    The other block is the discriminator block which is based on a simple Markovian Discriminator (PatchGan used in Image translations tasks).
+
+- Next up is with loss functions and the training.
 
 
