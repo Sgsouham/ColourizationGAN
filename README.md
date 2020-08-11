@@ -10,3 +10,5 @@ So the paper looks forward to tackle a simple probelem and that is to colourize 
 ### For those who would want to reimplement this paper from scratch. 
 
 - the easiest part of this project is to implement the model architecture
+
+![]()
