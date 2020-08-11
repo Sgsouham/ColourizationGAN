@@ -44,6 +44,6 @@ The result of this repository are given below
 ![1](/images/3.png)
 ![1](/images/4.png)
 
-<bold>Please do cite the original paper if you like the repo and please do check out the official keras implementation of the ChromaGan.</bold>
+***Please do cite the original paper if you like the repo and please do check out the official keras implementation of the ChromaGan.***
 
 
