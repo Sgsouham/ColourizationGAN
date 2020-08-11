@@ -45,5 +45,7 @@ The result of this repository are given below
 ![1](/images/4.png)
 
 ***Please do cite the original paper if you like the repo and please do check out the official keras implementation of the ChromaGan.***
+[LINK to the repo](https://github.com/pvitoria/ChromaGAN)
+[LINK to the paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.pdf)
 
 
