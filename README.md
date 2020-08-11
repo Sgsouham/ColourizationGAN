@@ -36,6 +36,10 @@ I trained it on a few images(50k)
 
 ### Results and Important links 
 
-Results of their paper and every minute detail can be found in [in this link](https://github.com/pvitoria/ChromaGAN)
+Results of their paper and every minute detail can be found in [pvitoria repo](https://github.com/pvitoria/ChromaGAN)
+
+The result of this repository are given below
+
+[]
 
 
