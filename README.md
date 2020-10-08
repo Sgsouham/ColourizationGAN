@@ -31,7 +31,7 @@ So the paper looks forward to tackle a simple probelem and that is to colourize 
           - WGAN loss (adverserial Wassertien GAN loss)
         
 ### Dataset
-The original paper was trained on Imagenet
+The original paper was trained on Imagenet.
 I trained it on a few images(50k)
 
 ### Results and Important links 
